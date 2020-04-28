@@ -112,7 +112,6 @@ var DefaultExtensions = []string{
 	".markdown",
 	".md",
 	".mkd",
-	".ts",
 	".jst",
 	".coffee",
 	".tgz",
